@@ -3,6 +3,11 @@ STARTED PRACTICE PROJECT - with redux, jwt auth and cookies
 npm i bcryptjs cookie-parser dotenv express jsonwebtoken mongoose nodemon
 --> SERVER: created models/user.model.js for app
 
+COMPLETED SERVER: added files of folders to create routes and start server
+util files for error and verifyUser
+controllers, routes / (user & auth.)___.js
+index.js server file
+
 
 
 
