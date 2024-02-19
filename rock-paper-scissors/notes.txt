@@ -1,4 +1,7 @@
 Will create 3 versions of rock-paper-scissor game
 (added files and folders for all versions of th app) index.html, app.js
 START v1 - complete index.html
-v1 - completed app.js
+
+v1 - forEach and if/else - completed app.js
+
+v2 - (more HTML UI handled in JS, only one div#game + using switch and loop) - completed project
