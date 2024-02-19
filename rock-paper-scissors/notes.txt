@@ -1,0 +1,3 @@
+Will create 3 versions of rock-paper-scissor game
+(added files and folders for all versions of th app) index.html, app.js
+START v1 - complete index.html
